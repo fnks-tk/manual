@@ -12,4 +12,4 @@
 2. Skill setup stepsの5で`ask deploy`を実行してもエラーになると思われる。それは、現在のフォルダの構成がASK CLI v1用のためである。[ASK CLI v1からv2への移行ガイド](https://developer.amazon.com/ja-JP/docs/alexa/smapi/ask-cli-v1-to-v2-migration-guide.html)を参考に、`ask util upgrade-project`を実行し、フォルダの構成をASK CLI v2用に変換する。
 3. [ドキュメント][document]のSkill setup stepsの5からあとを進める。
 
-[document]:(https://github.com/alexa/alexa-cookbook/tree/master/feature-demos/skill-demo-proactive-events)
+[document]: (https://github.com/alexa/alexa-cookbook/tree/master/feature-demos/skill-demo-proactive-events)
